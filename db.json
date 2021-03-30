@@ -1,8 +1,26 @@
 {
-  "posts": [
+  "employees": [
     {
-      "id": 1,
-      "title": "hello"
+      "name": "Piyush Sharma",
+      "id" : 1,
+      "mobile":8952842932,
+      "email":"piyush.sharma@intimetec.com",
+      "salary": 45833,
+      "gender":"Male",
+      "dob":"24-10-1999",
+      "address":"9, shubham vihar, Mahesh Nagar, Jaipur",
+      "workloc":"Jaipur"
+    },
+    {
+      "name": "Ayush Sharma",
+      "id" : 1,
+      "mobile":8942528932,
+      "email":"ayush.sharma@intimetec.com",
+      "salary": 37500,
+      "gender":"Male",
+      "dob":"21-05-1999",
+      "address":"A-5 shipra path, mansarover, Jaipur",
+      "workloc":"Jaipur"
     }
   ],
   "profile": {
