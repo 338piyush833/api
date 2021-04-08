@@ -26,14 +26,14 @@
   "employeeList":[
     {
       "id" : 1,
-      "employeNname" : "Piyush Sharma",
+      "employeeNname" : "Piyush Sharma",
       "employeeSalary" : 47000,
       "employeeAge" : 22,
       "profileImage" : "https://i.stack.imgur.com/l60Hf.png"
     },
     {
       "id" : 2,
-      "employeNname" : "Ayush Sharma",
+      "employeeNname" : "Ayush Sharma",
       "employeeSalary" : 42000,
       "employeeAge" : 21,
       "profileImage" : "https://i.stack.imgur.com/l60Hf.png"
